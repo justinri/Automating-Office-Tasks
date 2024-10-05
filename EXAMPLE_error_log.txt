@@ -1,0 +1,15 @@
+2020-10-21: Function daily_tracking_email could not find customer: 100545 
+2020-10-21: Function daily_tracking_email could not find customer: 0265 
+2020-10-21: Function daily_tracking_email could not find customer: 0200 
+2020-10-21: Function daily_tracking_email could not find customer: 9496 
+2020-10-21: Function daily_tracking_email could not find customer: 0160 
+2020-10-21: Function daily_tracking_email could not find customer: 100545 
+2020-10-21: Function daily_tracking_email could not find customer: 0265 
+2020-10-21: Function daily_tracking_email could not find customer: 0200 
+2020-10-21: Function daily_tracking_email could not find customer: 9496 
+2020-10-21: Function daily_tracking_email could not find customer: 0160 
+2020-10-21: Function daily_tracking_email could not find customer: 100545 
+2020-10-21: Function daily_tracking_email could not find customer: 0265 
+2020-10-21: Function daily_tracking_email could not find customer: 0200 
+2020-10-21: Function daily_tracking_email could not find customer: 9496 
+2020-10-21: Function daily_tracking_email could not find customer: 0160 
