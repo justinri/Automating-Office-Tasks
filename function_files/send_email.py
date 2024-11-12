@@ -44,9 +44,6 @@ def emailInfo(whyEmail, emailContent, today):
 
 def sendEmail(whyEmail, emailContent, today, email_to = ["removed..."]):
 	####********************Sending the email************************************/
-	# Here goes the configuration of your email provider.
-	# Look online to find it.
-	# For instance for Yahoo!Mail:
 	SMTP_SERVER   = 'smtp.mail.yahoo.com'
 	SMTP_LOGIN    = 'removed...'
 	SMTP_PASSWORD = 'removed...'  # Have to use a app password: https://mail.yahoosmallbusiness.com/accountinfo
