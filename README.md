@@ -1,5 +1,5 @@
 # Automating Office Tasks
-The code accesses JobBOSS data via its SQL Server, enabling the automation of tedious office tasks and the conversion of JobBOSS files into user-friendly formats.
+The code accesses JobBOSS data via its SQL Server, enabling the automation of tedious office tasks
 
 ## Tasks include:
 - Emails past-due invoice information to accounting, highlighting all open amounts equal to/over $1,000 in red
